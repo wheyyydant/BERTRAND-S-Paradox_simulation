@@ -2,9 +2,9 @@
 
 *A Monte Carlo study of chord-length randomness and the non-uniqueness of "uniform random chord"*
 
-**Author:** Himanshu Dubey  
-**Date:** August 23, 2026  
-**Last Updated:** 2026-08-31 14:45:39 IST
+**Author:** Vedant Raut  
+**Date:** September 2026  
+**Repository:** [BERTRAND-S-Paradox_simulation](https://github.com/wheyyydant/BERTRAND-S-Paradox_simulation)  
 ![Three methods of Bertrand's paradox](images/overview.svg)
 
 ---
